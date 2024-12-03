@@ -11,4 +11,4 @@
 - [Python](https://www.python.org/) 
 - [Google Colab](https://colab.google/)
 
-![gif](1527705674112073360.gif)
+![gif](lain.gif)
