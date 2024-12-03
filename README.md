@@ -11,4 +11,4 @@
 - [Python](https://www.python.org/) 
 - [Google Colab](https://colab.google/)
 
-![че зыришь](https://i.imgur.com/4gu6vcg.mp4)
+![gif](1527705674112073360.gif)
